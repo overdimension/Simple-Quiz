@@ -1,5 +1,5 @@
-﻿# Quizz-updated
-# ProjectUpdated — Quiz Web App
+﻿# Simple-Quiz
+# Simple-Quiz — Quiz Web App
 
 **ProjectUpdated** is a simple, lightweight web application for creating and taking quizzes.  
 It uses plain HTML, CSS, and JavaScript, with no backend required. Quizzes are defined in JSON format and can be easily customized.
@@ -45,4 +45,5 @@ project/
 4. After completing the quiz, your score will appear on the result page  
 
 5. Click **Return to Main Page** to choose another quiz  
+
 
